@@ -1,5 +1,5 @@
 {% set name = "lingua-language-detector" %}
-{% set version = "1.1.2" %}
+{% set version = "1.1.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lingua-language-detector-{{ version }}.tar.gz
-  sha256: f39275b6d28b2972c2d1ffdd6d53d7863c2113af6cd2a7a04c3cbbfa00293ef0
+  sha256: 301fbb97a048056bdc71b18370c9c518dd02895858fb4243c9f87f480ec18c0a
 
 build:
   noarch: python
