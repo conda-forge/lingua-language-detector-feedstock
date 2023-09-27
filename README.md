@@ -1,11 +1,11 @@
-About lingua-language-detector
-==============================
+About lingua-language-detector-feedstock
+========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lingua-language-detector-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pemistahl.github.io/lingua-py
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lingua-language-detector-feedstock/blob/main/LICENSE.txt)
 
 Summary: An accurate natural language detection library, suitable for long and short text alike
 
